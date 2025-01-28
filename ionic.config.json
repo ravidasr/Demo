@@ -1,7 +1,11 @@
 {
   "name": "Demo",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "id": "e19cc55e"
 }
